@@ -1,0 +1,13 @@
+D:\C#\BaiTap\Bt4\bin\Debug\netcoreapp3.1\Bt4.exe
+D:\C#\BaiTap\Bt4\bin\Debug\netcoreapp3.1\Bt4.deps.json
+D:\C#\BaiTap\Bt4\bin\Debug\netcoreapp3.1\Bt4.runtimeconfig.json
+D:\C#\BaiTap\Bt4\bin\Debug\netcoreapp3.1\Bt4.runtimeconfig.dev.json
+D:\C#\BaiTap\Bt4\bin\Debug\netcoreapp3.1\Bt4.dll
+D:\C#\BaiTap\Bt4\bin\Debug\netcoreapp3.1\Bt4.pdb
+D:\C#\BaiTap\Bt4\obj\Debug\netcoreapp3.1\Bt4.csprojAssemblyReference.cache
+D:\C#\BaiTap\Bt4\obj\Debug\netcoreapp3.1\Bt4.AssemblyInfoInputs.cache
+D:\C#\BaiTap\Bt4\obj\Debug\netcoreapp3.1\Bt4.AssemblyInfo.cs
+D:\C#\BaiTap\Bt4\obj\Debug\netcoreapp3.1\Bt4.csproj.CoreCompileInputs.cache
+D:\C#\BaiTap\Bt4\obj\Debug\netcoreapp3.1\Bt4.dll
+D:\C#\BaiTap\Bt4\obj\Debug\netcoreapp3.1\Bt4.pdb
+D:\C#\BaiTap\Bt4\obj\Debug\netcoreapp3.1\Bt4.genruntimeconfig.cache

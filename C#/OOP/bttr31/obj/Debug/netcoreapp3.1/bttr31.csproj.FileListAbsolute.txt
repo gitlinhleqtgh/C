@@ -1,0 +1,13 @@
+D:\C#\OOP\bttr31\bin\Debug\netcoreapp3.1\bttr31.exe
+D:\C#\OOP\bttr31\bin\Debug\netcoreapp3.1\bttr31.deps.json
+D:\C#\OOP\bttr31\bin\Debug\netcoreapp3.1\bttr31.runtimeconfig.json
+D:\C#\OOP\bttr31\bin\Debug\netcoreapp3.1\bttr31.runtimeconfig.dev.json
+D:\C#\OOP\bttr31\bin\Debug\netcoreapp3.1\bttr31.dll
+D:\C#\OOP\bttr31\bin\Debug\netcoreapp3.1\bttr31.pdb
+D:\C#\OOP\bttr31\obj\Debug\netcoreapp3.1\bttr31.csprojAssemblyReference.cache
+D:\C#\OOP\bttr31\obj\Debug\netcoreapp3.1\bttr31.AssemblyInfoInputs.cache
+D:\C#\OOP\bttr31\obj\Debug\netcoreapp3.1\bttr31.AssemblyInfo.cs
+D:\C#\OOP\bttr31\obj\Debug\netcoreapp3.1\bttr31.csproj.CoreCompileInputs.cache
+D:\C#\OOP\bttr31\obj\Debug\netcoreapp3.1\bttr31.dll
+D:\C#\OOP\bttr31\obj\Debug\netcoreapp3.1\bttr31.pdb
+D:\C#\OOP\bttr31\obj\Debug\netcoreapp3.1\bttr31.genruntimeconfig.cache

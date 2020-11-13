@@ -1,0 +1,13 @@
+D:\C#\BaiTap\Bt9\obj\Debug\netcoreapp3.1\Bt9.csprojAssemblyReference.cache
+D:\C#\BaiTap\Bt9\obj\Debug\netcoreapp3.1\Bt9.AssemblyInfoInputs.cache
+D:\C#\BaiTap\Bt9\obj\Debug\netcoreapp3.1\Bt9.AssemblyInfo.cs
+D:\C#\BaiTap\Bt9\obj\Debug\netcoreapp3.1\Bt9.csproj.CoreCompileInputs.cache
+D:\C#\BaiTap\Bt9\bin\Debug\netcoreapp3.1\Bt9.exe
+D:\C#\BaiTap\Bt9\bin\Debug\netcoreapp3.1\Bt9.deps.json
+D:\C#\BaiTap\Bt9\bin\Debug\netcoreapp3.1\Bt9.runtimeconfig.json
+D:\C#\BaiTap\Bt9\bin\Debug\netcoreapp3.1\Bt9.runtimeconfig.dev.json
+D:\C#\BaiTap\Bt9\bin\Debug\netcoreapp3.1\Bt9.dll
+D:\C#\BaiTap\Bt9\bin\Debug\netcoreapp3.1\Bt9.pdb
+D:\C#\BaiTap\Bt9\obj\Debug\netcoreapp3.1\Bt9.dll
+D:\C#\BaiTap\Bt9\obj\Debug\netcoreapp3.1\Bt9.pdb
+D:\C#\BaiTap\Bt9\obj\Debug\netcoreapp3.1\Bt9.genruntimeconfig.cache

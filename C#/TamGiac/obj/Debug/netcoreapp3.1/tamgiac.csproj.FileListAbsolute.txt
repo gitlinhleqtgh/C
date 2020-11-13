@@ -1,0 +1,13 @@
+D:\C#\TamGiac\bin\Debug\netcoreapp3.1\tamgiac.exe
+D:\C#\TamGiac\bin\Debug\netcoreapp3.1\tamgiac.deps.json
+D:\C#\TamGiac\bin\Debug\netcoreapp3.1\tamgiac.runtimeconfig.json
+D:\C#\TamGiac\bin\Debug\netcoreapp3.1\tamgiac.runtimeconfig.dev.json
+D:\C#\TamGiac\bin\Debug\netcoreapp3.1\tamgiac.dll
+D:\C#\TamGiac\bin\Debug\netcoreapp3.1\tamgiac.pdb
+D:\C#\TamGiac\obj\Debug\netcoreapp3.1\tamgiac.csprojAssemblyReference.cache
+D:\C#\TamGiac\obj\Debug\netcoreapp3.1\tamgiac.AssemblyInfoInputs.cache
+D:\C#\TamGiac\obj\Debug\netcoreapp3.1\tamgiac.AssemblyInfo.cs
+D:\C#\TamGiac\obj\Debug\netcoreapp3.1\tamgiac.csproj.CoreCompileInputs.cache
+D:\C#\TamGiac\obj\Debug\netcoreapp3.1\tamgiac.dll
+D:\C#\TamGiac\obj\Debug\netcoreapp3.1\tamgiac.pdb
+D:\C#\TamGiac\obj\Debug\netcoreapp3.1\tamgiac.genruntimeconfig.cache

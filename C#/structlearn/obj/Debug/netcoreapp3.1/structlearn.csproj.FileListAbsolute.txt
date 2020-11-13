@@ -1,0 +1,13 @@
+D:\C#\structlearn\obj\Debug\netcoreapp3.1\structlearn.csprojAssemblyReference.cache
+D:\C#\structlearn\obj\Debug\netcoreapp3.1\structlearn.AssemblyInfoInputs.cache
+D:\C#\structlearn\obj\Debug\netcoreapp3.1\structlearn.AssemblyInfo.cs
+D:\C#\structlearn\obj\Debug\netcoreapp3.1\structlearn.csproj.CoreCompileInputs.cache
+D:\C#\structlearn\bin\Debug\netcoreapp3.1\structlearn.exe
+D:\C#\structlearn\bin\Debug\netcoreapp3.1\structlearn.deps.json
+D:\C#\structlearn\bin\Debug\netcoreapp3.1\structlearn.runtimeconfig.json
+D:\C#\structlearn\bin\Debug\netcoreapp3.1\structlearn.runtimeconfig.dev.json
+D:\C#\structlearn\bin\Debug\netcoreapp3.1\structlearn.dll
+D:\C#\structlearn\bin\Debug\netcoreapp3.1\structlearn.pdb
+D:\C#\structlearn\obj\Debug\netcoreapp3.1\structlearn.dll
+D:\C#\structlearn\obj\Debug\netcoreapp3.1\structlearn.pdb
+D:\C#\structlearn\obj\Debug\netcoreapp3.1\structlearn.genruntimeconfig.cache

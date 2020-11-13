@@ -1,0 +1,13 @@
+D:\C#\BaiTap\Bt10_BubleSort\bin\Debug\netcoreapp3.1\Bt10_BubleSort.exe
+D:\C#\BaiTap\Bt10_BubleSort\bin\Debug\netcoreapp3.1\Bt10_BubleSort.deps.json
+D:\C#\BaiTap\Bt10_BubleSort\bin\Debug\netcoreapp3.1\Bt10_BubleSort.runtimeconfig.json
+D:\C#\BaiTap\Bt10_BubleSort\bin\Debug\netcoreapp3.1\Bt10_BubleSort.runtimeconfig.dev.json
+D:\C#\BaiTap\Bt10_BubleSort\bin\Debug\netcoreapp3.1\Bt10_BubleSort.dll
+D:\C#\BaiTap\Bt10_BubleSort\bin\Debug\netcoreapp3.1\Bt10_BubleSort.pdb
+D:\C#\BaiTap\Bt10_BubleSort\obj\Debug\netcoreapp3.1\Bt10_BubleSort.csprojAssemblyReference.cache
+D:\C#\BaiTap\Bt10_BubleSort\obj\Debug\netcoreapp3.1\Bt10_BubleSort.AssemblyInfoInputs.cache
+D:\C#\BaiTap\Bt10_BubleSort\obj\Debug\netcoreapp3.1\Bt10_BubleSort.AssemblyInfo.cs
+D:\C#\BaiTap\Bt10_BubleSort\obj\Debug\netcoreapp3.1\Bt10_BubleSort.csproj.CoreCompileInputs.cache
+D:\C#\BaiTap\Bt10_BubleSort\obj\Debug\netcoreapp3.1\Bt10_BubleSort.dll
+D:\C#\BaiTap\Bt10_BubleSort\obj\Debug\netcoreapp3.1\Bt10_BubleSort.pdb
+D:\C#\BaiTap\Bt10_BubleSort\obj\Debug\netcoreapp3.1\Bt10_BubleSort.genruntimeconfig.cache

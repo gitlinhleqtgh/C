@@ -1,0 +1,13 @@
+D:\C#\BaiTap\Bt2_If\obj\Debug\netcoreapp3.1\Bt2_If.csprojAssemblyReference.cache
+D:\C#\BaiTap\Bt2_If\obj\Debug\netcoreapp3.1\Bt2_If.AssemblyInfoInputs.cache
+D:\C#\BaiTap\Bt2_If\obj\Debug\netcoreapp3.1\Bt2_If.AssemblyInfo.cs
+D:\C#\BaiTap\Bt2_If\obj\Debug\netcoreapp3.1\Bt2_If.csproj.CoreCompileInputs.cache
+D:\C#\BaiTap\Bt2_If\bin\Debug\netcoreapp3.1\Bt2_If.exe
+D:\C#\BaiTap\Bt2_If\bin\Debug\netcoreapp3.1\Bt2_If.deps.json
+D:\C#\BaiTap\Bt2_If\bin\Debug\netcoreapp3.1\Bt2_If.runtimeconfig.json
+D:\C#\BaiTap\Bt2_If\bin\Debug\netcoreapp3.1\Bt2_If.runtimeconfig.dev.json
+D:\C#\BaiTap\Bt2_If\bin\Debug\netcoreapp3.1\Bt2_If.dll
+D:\C#\BaiTap\Bt2_If\bin\Debug\netcoreapp3.1\Bt2_If.pdb
+D:\C#\BaiTap\Bt2_If\obj\Debug\netcoreapp3.1\Bt2_If.dll
+D:\C#\BaiTap\Bt2_If\obj\Debug\netcoreapp3.1\Bt2_If.pdb
+D:\C#\BaiTap\Bt2_If\obj\Debug\netcoreapp3.1\Bt2_If.genruntimeconfig.cache

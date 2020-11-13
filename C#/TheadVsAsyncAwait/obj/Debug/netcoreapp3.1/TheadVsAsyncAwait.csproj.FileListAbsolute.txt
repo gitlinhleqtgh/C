@@ -1,0 +1,13 @@
+D:\C#\TheadVsAsyncAwait\bin\Debug\netcoreapp3.1\TheadVsAsyncAwait.exe
+D:\C#\TheadVsAsyncAwait\bin\Debug\netcoreapp3.1\TheadVsAsyncAwait.deps.json
+D:\C#\TheadVsAsyncAwait\bin\Debug\netcoreapp3.1\TheadVsAsyncAwait.runtimeconfig.json
+D:\C#\TheadVsAsyncAwait\bin\Debug\netcoreapp3.1\TheadVsAsyncAwait.runtimeconfig.dev.json
+D:\C#\TheadVsAsyncAwait\bin\Debug\netcoreapp3.1\TheadVsAsyncAwait.dll
+D:\C#\TheadVsAsyncAwait\bin\Debug\netcoreapp3.1\TheadVsAsyncAwait.pdb
+D:\C#\TheadVsAsyncAwait\obj\Debug\netcoreapp3.1\TheadVsAsyncAwait.csprojAssemblyReference.cache
+D:\C#\TheadVsAsyncAwait\obj\Debug\netcoreapp3.1\TheadVsAsyncAwait.AssemblyInfoInputs.cache
+D:\C#\TheadVsAsyncAwait\obj\Debug\netcoreapp3.1\TheadVsAsyncAwait.AssemblyInfo.cs
+D:\C#\TheadVsAsyncAwait\obj\Debug\netcoreapp3.1\TheadVsAsyncAwait.csproj.CoreCompileInputs.cache
+D:\C#\TheadVsAsyncAwait\obj\Debug\netcoreapp3.1\TheadVsAsyncAwait.dll
+D:\C#\TheadVsAsyncAwait\obj\Debug\netcoreapp3.1\TheadVsAsyncAwait.pdb
+D:\C#\TheadVsAsyncAwait\obj\Debug\netcoreapp3.1\TheadVsAsyncAwait.genruntimeconfig.cache

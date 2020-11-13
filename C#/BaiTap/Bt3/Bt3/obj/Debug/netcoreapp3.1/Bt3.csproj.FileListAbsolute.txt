@@ -1,0 +1,13 @@
+D:\C#\BaiTap\Bt3\Bt3\obj\Debug\netcoreapp3.1\Bt3.csprojAssemblyReference.cache
+D:\C#\BaiTap\Bt3\Bt3\obj\Debug\netcoreapp3.1\Bt3.AssemblyInfoInputs.cache
+D:\C#\BaiTap\Bt3\Bt3\obj\Debug\netcoreapp3.1\Bt3.AssemblyInfo.cs
+D:\C#\BaiTap\Bt3\Bt3\obj\Debug\netcoreapp3.1\Bt3.csproj.CoreCompileInputs.cache
+D:\C#\BaiTap\Bt3\Bt3\bin\Debug\netcoreapp3.1\Bt3.exe
+D:\C#\BaiTap\Bt3\Bt3\bin\Debug\netcoreapp3.1\Bt3.deps.json
+D:\C#\BaiTap\Bt3\Bt3\bin\Debug\netcoreapp3.1\Bt3.runtimeconfig.json
+D:\C#\BaiTap\Bt3\Bt3\bin\Debug\netcoreapp3.1\Bt3.runtimeconfig.dev.json
+D:\C#\BaiTap\Bt3\Bt3\bin\Debug\netcoreapp3.1\Bt3.dll
+D:\C#\BaiTap\Bt3\Bt3\bin\Debug\netcoreapp3.1\Bt3.pdb
+D:\C#\BaiTap\Bt3\Bt3\obj\Debug\netcoreapp3.1\Bt3.dll
+D:\C#\BaiTap\Bt3\Bt3\obj\Debug\netcoreapp3.1\Bt3.pdb
+D:\C#\BaiTap\Bt3\Bt3\obj\Debug\netcoreapp3.1\Bt3.genruntimeconfig.cache

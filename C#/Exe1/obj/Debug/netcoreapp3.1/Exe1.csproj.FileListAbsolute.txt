@@ -1,0 +1,13 @@
+/home/lin/Desktop/C#.Net/Exe1/bin/Debug/netcoreapp3.1/Exe1
+/home/lin/Desktop/C#.Net/Exe1/bin/Debug/netcoreapp3.1/Exe1.deps.json
+/home/lin/Desktop/C#.Net/Exe1/bin/Debug/netcoreapp3.1/Exe1.runtimeconfig.json
+/home/lin/Desktop/C#.Net/Exe1/bin/Debug/netcoreapp3.1/Exe1.runtimeconfig.dev.json
+/home/lin/Desktop/C#.Net/Exe1/bin/Debug/netcoreapp3.1/Exe1.dll
+/home/lin/Desktop/C#.Net/Exe1/bin/Debug/netcoreapp3.1/Exe1.pdb
+/home/lin/Desktop/C#.Net/Exe1/obj/Debug/netcoreapp3.1/Exe1.csprojAssemblyReference.cache
+/home/lin/Desktop/C#.Net/Exe1/obj/Debug/netcoreapp3.1/Exe1.AssemblyInfoInputs.cache
+/home/lin/Desktop/C#.Net/Exe1/obj/Debug/netcoreapp3.1/Exe1.AssemblyInfo.cs
+/home/lin/Desktop/C#.Net/Exe1/obj/Debug/netcoreapp3.1/Exe1.csproj.CoreCompileInputs.cache
+/home/lin/Desktop/C#.Net/Exe1/obj/Debug/netcoreapp3.1/Exe1.dll
+/home/lin/Desktop/C#.Net/Exe1/obj/Debug/netcoreapp3.1/Exe1.pdb
+/home/lin/Desktop/C#.Net/Exe1/obj/Debug/netcoreapp3.1/Exe1.genruntimeconfig.cache

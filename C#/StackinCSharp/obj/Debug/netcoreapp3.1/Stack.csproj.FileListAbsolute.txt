@@ -1,0 +1,17 @@
+D:\C#\Stack\obj\Debug\netcoreapp3.1\Stack.csprojAssemblyReference.cache
+D:\C#\Stack\obj\Debug\netcoreapp3.1\Stack.AssemblyInfoInputs.cache
+D:\C#\Stack\obj\Debug\netcoreapp3.1\Stack.AssemblyInfo.cs
+D:\C#\Stack\obj\Debug\netcoreapp3.1\Stack.csproj.CoreCompileInputs.cache
+D:\C#\StackinCSharp\bin\Debug\netcoreapp3.1\Stack.exe
+D:\C#\StackinCSharp\bin\Debug\netcoreapp3.1\Stack.deps.json
+D:\C#\StackinCSharp\bin\Debug\netcoreapp3.1\Stack.runtimeconfig.json
+D:\C#\StackinCSharp\bin\Debug\netcoreapp3.1\Stack.runtimeconfig.dev.json
+D:\C#\StackinCSharp\bin\Debug\netcoreapp3.1\Stack.dll
+D:\C#\StackinCSharp\bin\Debug\netcoreapp3.1\Stack.pdb
+D:\C#\StackinCSharp\obj\Debug\netcoreapp3.1\Stack.csprojAssemblyReference.cache
+D:\C#\StackinCSharp\obj\Debug\netcoreapp3.1\Stack.AssemblyInfoInputs.cache
+D:\C#\StackinCSharp\obj\Debug\netcoreapp3.1\Stack.AssemblyInfo.cs
+D:\C#\StackinCSharp\obj\Debug\netcoreapp3.1\Stack.csproj.CoreCompileInputs.cache
+D:\C#\StackinCSharp\obj\Debug\netcoreapp3.1\Stack.dll
+D:\C#\StackinCSharp\obj\Debug\netcoreapp3.1\Stack.pdb
+D:\C#\StackinCSharp\obj\Debug\netcoreapp3.1\Stack.genruntimeconfig.cache

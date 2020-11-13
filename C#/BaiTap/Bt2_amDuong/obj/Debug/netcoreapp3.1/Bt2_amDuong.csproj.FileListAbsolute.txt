@@ -1,0 +1,13 @@
+D:\C#\BaiTap\Bt2_amDuong\bin\Debug\netcoreapp3.1\Bt2_amDuong.exe
+D:\C#\BaiTap\Bt2_amDuong\bin\Debug\netcoreapp3.1\Bt2_amDuong.deps.json
+D:\C#\BaiTap\Bt2_amDuong\bin\Debug\netcoreapp3.1\Bt2_amDuong.runtimeconfig.json
+D:\C#\BaiTap\Bt2_amDuong\bin\Debug\netcoreapp3.1\Bt2_amDuong.runtimeconfig.dev.json
+D:\C#\BaiTap\Bt2_amDuong\bin\Debug\netcoreapp3.1\Bt2_amDuong.dll
+D:\C#\BaiTap\Bt2_amDuong\bin\Debug\netcoreapp3.1\Bt2_amDuong.pdb
+D:\C#\BaiTap\Bt2_amDuong\obj\Debug\netcoreapp3.1\Bt2_amDuong.csprojAssemblyReference.cache
+D:\C#\BaiTap\Bt2_amDuong\obj\Debug\netcoreapp3.1\Bt2_amDuong.AssemblyInfoInputs.cache
+D:\C#\BaiTap\Bt2_amDuong\obj\Debug\netcoreapp3.1\Bt2_amDuong.AssemblyInfo.cs
+D:\C#\BaiTap\Bt2_amDuong\obj\Debug\netcoreapp3.1\Bt2_amDuong.csproj.CoreCompileInputs.cache
+D:\C#\BaiTap\Bt2_amDuong\obj\Debug\netcoreapp3.1\Bt2_amDuong.dll
+D:\C#\BaiTap\Bt2_amDuong\obj\Debug\netcoreapp3.1\Bt2_amDuong.pdb
+D:\C#\BaiTap\Bt2_amDuong\obj\Debug\netcoreapp3.1\Bt2_amDuong.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C#\daHinh\obj\Debug\netcoreapp3.1\daHinh.csprojAssemblyReference.cache
+D:\C#\daHinh\obj\Debug\netcoreapp3.1\daHinh.AssemblyInfoInputs.cache
+D:\C#\daHinh\obj\Debug\netcoreapp3.1\daHinh.AssemblyInfo.cs
+D:\C#\daHinh\obj\Debug\netcoreapp3.1\daHinh.csproj.CoreCompileInputs.cache
+D:\C#\daHinh\bin\Debug\netcoreapp3.1\daHinh.exe
+D:\C#\daHinh\bin\Debug\netcoreapp3.1\daHinh.deps.json
+D:\C#\daHinh\bin\Debug\netcoreapp3.1\daHinh.runtimeconfig.json
+D:\C#\daHinh\bin\Debug\netcoreapp3.1\daHinh.runtimeconfig.dev.json
+D:\C#\daHinh\bin\Debug\netcoreapp3.1\daHinh.dll
+D:\C#\daHinh\bin\Debug\netcoreapp3.1\daHinh.pdb
+D:\C#\daHinh\obj\Debug\netcoreapp3.1\daHinh.dll
+D:\C#\daHinh\obj\Debug\netcoreapp3.1\daHinh.pdb
+D:\C#\daHinh\obj\Debug\netcoreapp3.1\daHinh.genruntimeconfig.cache

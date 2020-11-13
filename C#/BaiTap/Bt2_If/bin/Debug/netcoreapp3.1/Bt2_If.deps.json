@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Bt2_If/1.0.0": {
+        "runtime": {
+          "Bt2_If.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bt2_If/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

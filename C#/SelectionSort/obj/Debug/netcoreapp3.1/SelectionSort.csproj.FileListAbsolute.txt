@@ -1,0 +1,13 @@
+D:\C#\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.exe
+D:\C#\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.deps.json
+D:\C#\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.runtimeconfig.json
+D:\C#\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.runtimeconfig.dev.json
+D:\C#\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.dll
+D:\C#\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.pdb
+D:\C#\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.csprojAssemblyReference.cache
+D:\C#\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.AssemblyInfoInputs.cache
+D:\C#\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.AssemblyInfo.cs
+D:\C#\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.csproj.CoreCompileInputs.cache
+D:\C#\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.dll
+D:\C#\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.pdb
+D:\C#\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C#\BaiTap\Bt5\bin\Debug\netcoreapp3.1\Bt5.exe
+D:\C#\BaiTap\Bt5\bin\Debug\netcoreapp3.1\Bt5.deps.json
+D:\C#\BaiTap\Bt5\bin\Debug\netcoreapp3.1\Bt5.runtimeconfig.json
+D:\C#\BaiTap\Bt5\bin\Debug\netcoreapp3.1\Bt5.runtimeconfig.dev.json
+D:\C#\BaiTap\Bt5\bin\Debug\netcoreapp3.1\Bt5.dll
+D:\C#\BaiTap\Bt5\bin\Debug\netcoreapp3.1\Bt5.pdb
+D:\C#\BaiTap\Bt5\obj\Debug\netcoreapp3.1\Bt5.csprojAssemblyReference.cache
+D:\C#\BaiTap\Bt5\obj\Debug\netcoreapp3.1\Bt5.AssemblyInfoInputs.cache
+D:\C#\BaiTap\Bt5\obj\Debug\netcoreapp3.1\Bt5.AssemblyInfo.cs
+D:\C#\BaiTap\Bt5\obj\Debug\netcoreapp3.1\Bt5.csproj.CoreCompileInputs.cache
+D:\C#\BaiTap\Bt5\obj\Debug\netcoreapp3.1\Bt5.dll
+D:\C#\BaiTap\Bt5\obj\Debug\netcoreapp3.1\Bt5.pdb
+D:\C#\BaiTap\Bt5\obj\Debug\netcoreapp3.1\Bt5.genruntimeconfig.cache

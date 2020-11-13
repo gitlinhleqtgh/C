@@ -1,0 +1,13 @@
+D:\C#\HashTable\obj\Debug\netcoreapp3.1\HashTable.csprojAssemblyReference.cache
+D:\C#\HashTable\obj\Debug\netcoreapp3.1\HashTable.AssemblyInfoInputs.cache
+D:\C#\HashTable\obj\Debug\netcoreapp3.1\HashTable.AssemblyInfo.cs
+D:\C#\HashTable\obj\Debug\netcoreapp3.1\HashTable.csproj.CoreCompileInputs.cache
+D:\C#\HashTable\bin\Debug\netcoreapp3.1\HashTable.exe
+D:\C#\HashTable\bin\Debug\netcoreapp3.1\HashTable.deps.json
+D:\C#\HashTable\bin\Debug\netcoreapp3.1\HashTable.runtimeconfig.json
+D:\C#\HashTable\bin\Debug\netcoreapp3.1\HashTable.runtimeconfig.dev.json
+D:\C#\HashTable\bin\Debug\netcoreapp3.1\HashTable.dll
+D:\C#\HashTable\bin\Debug\netcoreapp3.1\HashTable.pdb
+D:\C#\HashTable\obj\Debug\netcoreapp3.1\HashTable.dll
+D:\C#\HashTable\obj\Debug\netcoreapp3.1\HashTable.pdb
+D:\C#\HashTable\obj\Debug\netcoreapp3.1\HashTable.genruntimeconfig.cache

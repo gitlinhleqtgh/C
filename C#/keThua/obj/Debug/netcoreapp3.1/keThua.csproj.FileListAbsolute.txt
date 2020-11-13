@@ -1,0 +1,13 @@
+D:\C#\keThua\obj\Debug\netcoreapp3.1\keThua.csprojAssemblyReference.cache
+D:\C#\keThua\obj\Debug\netcoreapp3.1\keThua.AssemblyInfoInputs.cache
+D:\C#\keThua\obj\Debug\netcoreapp3.1\keThua.AssemblyInfo.cs
+D:\C#\keThua\obj\Debug\netcoreapp3.1\keThua.csproj.CoreCompileInputs.cache
+D:\C#\keThua\bin\Debug\netcoreapp3.1\keThua.exe
+D:\C#\keThua\bin\Debug\netcoreapp3.1\keThua.deps.json
+D:\C#\keThua\bin\Debug\netcoreapp3.1\keThua.runtimeconfig.json
+D:\C#\keThua\bin\Debug\netcoreapp3.1\keThua.runtimeconfig.dev.json
+D:\C#\keThua\bin\Debug\netcoreapp3.1\keThua.dll
+D:\C#\keThua\bin\Debug\netcoreapp3.1\keThua.pdb
+D:\C#\keThua\obj\Debug\netcoreapp3.1\keThua.dll
+D:\C#\keThua\obj\Debug\netcoreapp3.1\keThua.pdb
+D:\C#\keThua\obj\Debug\netcoreapp3.1\keThua.genruntimeconfig.cache

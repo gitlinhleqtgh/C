@@ -1,0 +1,13 @@
+D:\C#\SortedList\bin\Debug\netcoreapp3.1\SortedList.exe
+D:\C#\SortedList\bin\Debug\netcoreapp3.1\SortedList.deps.json
+D:\C#\SortedList\bin\Debug\netcoreapp3.1\SortedList.runtimeconfig.json
+D:\C#\SortedList\bin\Debug\netcoreapp3.1\SortedList.runtimeconfig.dev.json
+D:\C#\SortedList\bin\Debug\netcoreapp3.1\SortedList.dll
+D:\C#\SortedList\bin\Debug\netcoreapp3.1\SortedList.pdb
+D:\C#\SortedList\obj\Debug\netcoreapp3.1\SortedList.csprojAssemblyReference.cache
+D:\C#\SortedList\obj\Debug\netcoreapp3.1\SortedList.AssemblyInfoInputs.cache
+D:\C#\SortedList\obj\Debug\netcoreapp3.1\SortedList.AssemblyInfo.cs
+D:\C#\SortedList\obj\Debug\netcoreapp3.1\SortedList.csproj.CoreCompileInputs.cache
+D:\C#\SortedList\obj\Debug\netcoreapp3.1\SortedList.dll
+D:\C#\SortedList\obj\Debug\netcoreapp3.1\SortedList.pdb
+D:\C#\SortedList\obj\Debug\netcoreapp3.1\SortedList.genruntimeconfig.cache

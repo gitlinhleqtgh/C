@@ -1,0 +1,13 @@
+D:\C#\Nested\bin\Debug\netcoreapp3.1\Nested.exe
+D:\C#\Nested\bin\Debug\netcoreapp3.1\Nested.deps.json
+D:\C#\Nested\bin\Debug\netcoreapp3.1\Nested.runtimeconfig.json
+D:\C#\Nested\bin\Debug\netcoreapp3.1\Nested.runtimeconfig.dev.json
+D:\C#\Nested\bin\Debug\netcoreapp3.1\Nested.dll
+D:\C#\Nested\bin\Debug\netcoreapp3.1\Nested.pdb
+D:\C#\Nested\obj\Debug\netcoreapp3.1\Nested.csprojAssemblyReference.cache
+D:\C#\Nested\obj\Debug\netcoreapp3.1\Nested.AssemblyInfoInputs.cache
+D:\C#\Nested\obj\Debug\netcoreapp3.1\Nested.AssemblyInfo.cs
+D:\C#\Nested\obj\Debug\netcoreapp3.1\Nested.csproj.CoreCompileInputs.cache
+D:\C#\Nested\obj\Debug\netcoreapp3.1\Nested.dll
+D:\C#\Nested\obj\Debug\netcoreapp3.1\Nested.pdb
+D:\C#\Nested\obj\Debug\netcoreapp3.1\Nested.genruntimeconfig.cache

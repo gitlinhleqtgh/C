@@ -1,0 +1,13 @@
+D:\C#\BaiTap\Bt2_namNhuan\bin\Debug\netcoreapp3.1\Bt2_namNhuan.exe
+D:\C#\BaiTap\Bt2_namNhuan\bin\Debug\netcoreapp3.1\Bt2_namNhuan.deps.json
+D:\C#\BaiTap\Bt2_namNhuan\bin\Debug\netcoreapp3.1\Bt2_namNhuan.runtimeconfig.json
+D:\C#\BaiTap\Bt2_namNhuan\bin\Debug\netcoreapp3.1\Bt2_namNhuan.runtimeconfig.dev.json
+D:\C#\BaiTap\Bt2_namNhuan\bin\Debug\netcoreapp3.1\Bt2_namNhuan.dll
+D:\C#\BaiTap\Bt2_namNhuan\bin\Debug\netcoreapp3.1\Bt2_namNhuan.pdb
+D:\C#\BaiTap\Bt2_namNhuan\obj\Debug\netcoreapp3.1\Bt2_namNhuan.csprojAssemblyReference.cache
+D:\C#\BaiTap\Bt2_namNhuan\obj\Debug\netcoreapp3.1\Bt2_namNhuan.AssemblyInfoInputs.cache
+D:\C#\BaiTap\Bt2_namNhuan\obj\Debug\netcoreapp3.1\Bt2_namNhuan.AssemblyInfo.cs
+D:\C#\BaiTap\Bt2_namNhuan\obj\Debug\netcoreapp3.1\Bt2_namNhuan.csproj.CoreCompileInputs.cache
+D:\C#\BaiTap\Bt2_namNhuan\obj\Debug\netcoreapp3.1\Bt2_namNhuan.dll
+D:\C#\BaiTap\Bt2_namNhuan\obj\Debug\netcoreapp3.1\Bt2_namNhuan.pdb
+D:\C#\BaiTap\Bt2_namNhuan\obj\Debug\netcoreapp3.1\Bt2_namNhuan.genruntimeconfig.cache

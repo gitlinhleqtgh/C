@@ -1,0 +1,13 @@
+D:\C#\Exam\obj\Debug\netcoreapp3.1\Exam.csprojAssemblyReference.cache
+D:\C#\Exam\obj\Debug\netcoreapp3.1\Exam.AssemblyInfoInputs.cache
+D:\C#\Exam\obj\Debug\netcoreapp3.1\Exam.AssemblyInfo.cs
+D:\C#\Exam\obj\Debug\netcoreapp3.1\Exam.csproj.CoreCompileInputs.cache
+D:\C#\Exam\bin\Debug\netcoreapp3.1\Exam.exe
+D:\C#\Exam\bin\Debug\netcoreapp3.1\Exam.deps.json
+D:\C#\Exam\bin\Debug\netcoreapp3.1\Exam.runtimeconfig.json
+D:\C#\Exam\bin\Debug\netcoreapp3.1\Exam.runtimeconfig.dev.json
+D:\C#\Exam\bin\Debug\netcoreapp3.1\Exam.dll
+D:\C#\Exam\bin\Debug\netcoreapp3.1\Exam.pdb
+D:\C#\Exam\obj\Debug\netcoreapp3.1\Exam.dll
+D:\C#\Exam\obj\Debug\netcoreapp3.1\Exam.pdb
+D:\C#\Exam\obj\Debug\netcoreapp3.1\Exam.genruntimeconfig.cache

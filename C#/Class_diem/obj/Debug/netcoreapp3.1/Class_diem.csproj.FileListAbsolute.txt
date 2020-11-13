@@ -1,0 +1,13 @@
+D:\C#\Class_Diem\bin\Debug\netcoreapp3.1\Class_diem.exe
+D:\C#\Class_Diem\bin\Debug\netcoreapp3.1\Class_diem.deps.json
+D:\C#\Class_Diem\bin\Debug\netcoreapp3.1\Class_diem.runtimeconfig.json
+D:\C#\Class_Diem\bin\Debug\netcoreapp3.1\Class_diem.runtimeconfig.dev.json
+D:\C#\Class_Diem\bin\Debug\netcoreapp3.1\Class_diem.dll
+D:\C#\Class_Diem\bin\Debug\netcoreapp3.1\Class_diem.pdb
+D:\C#\Class_Diem\obj\Debug\netcoreapp3.1\Class_diem.csprojAssemblyReference.cache
+D:\C#\Class_Diem\obj\Debug\netcoreapp3.1\Class_diem.AssemblyInfoInputs.cache
+D:\C#\Class_Diem\obj\Debug\netcoreapp3.1\Class_diem.AssemblyInfo.cs
+D:\C#\Class_Diem\obj\Debug\netcoreapp3.1\Class_diem.csproj.CoreCompileInputs.cache
+D:\C#\Class_Diem\obj\Debug\netcoreapp3.1\Class_diem.dll
+D:\C#\Class_Diem\obj\Debug\netcoreapp3.1\Class_diem.pdb
+D:\C#\Class_Diem\obj\Debug\netcoreapp3.1\Class_diem.genruntimeconfig.cache

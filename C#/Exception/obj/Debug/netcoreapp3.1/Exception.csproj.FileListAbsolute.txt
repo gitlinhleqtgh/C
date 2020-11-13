@@ -1,0 +1,13 @@
+D:\C#\Exception\bin\Debug\netcoreapp3.1\Exception.exe
+D:\C#\Exception\bin\Debug\netcoreapp3.1\Exception.deps.json
+D:\C#\Exception\bin\Debug\netcoreapp3.1\Exception.runtimeconfig.json
+D:\C#\Exception\bin\Debug\netcoreapp3.1\Exception.runtimeconfig.dev.json
+D:\C#\Exception\bin\Debug\netcoreapp3.1\Exception.dll
+D:\C#\Exception\bin\Debug\netcoreapp3.1\Exception.pdb
+D:\C#\Exception\obj\Debug\netcoreapp3.1\Exception.csprojAssemblyReference.cache
+D:\C#\Exception\obj\Debug\netcoreapp3.1\Exception.AssemblyInfoInputs.cache
+D:\C#\Exception\obj\Debug\netcoreapp3.1\Exception.AssemblyInfo.cs
+D:\C#\Exception\obj\Debug\netcoreapp3.1\Exception.csproj.CoreCompileInputs.cache
+D:\C#\Exception\obj\Debug\netcoreapp3.1\Exception.dll
+D:\C#\Exception\obj\Debug\netcoreapp3.1\Exception.pdb
+D:\C#\Exception\obj\Debug\netcoreapp3.1\Exception.genruntimeconfig.cache
