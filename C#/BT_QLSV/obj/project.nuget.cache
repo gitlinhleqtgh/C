@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5uj9613ClrCgI0Y+xMq9ur1Oq92iyjuCzxAswj2qPZaO00mJTwoVfkJlW1KqbOsaIttLFHy72KjdAC4lbrLbew==",
+  "dgSpecHash": "pVjDxvIpdOGJNTVILuHF0kRI5rhCIhZeqHJenhUkamPn9c6XGPUFuDeRthmeMa0DBbD0uIWZCylGGd3HjsseUw==",
   "success": true,
-  "projectFilePath": "D:\\C#\\BT_QLSV\\BT_QLSV.csproj",
+  "projectFilePath": "d:\\C#\\BT_QLSV\\BT_QLSV.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

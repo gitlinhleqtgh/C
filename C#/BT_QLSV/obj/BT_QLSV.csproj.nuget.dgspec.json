@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\BT_QLSV\\BT_QLSV.csproj": {}
+    "d:\\C#\\BT_QLSV\\BT_QLSV.csproj": {}
   },
   "projects": {
-    "D:\\C#\\BT_QLSV\\BT_QLSV.csproj": {
+    "d:\\C#\\BT_QLSV\\BT_QLSV.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\BT_QLSV\\BT_QLSV.csproj",
+        "projectUniqueName": "d:\\C#\\BT_QLSV\\BT_QLSV.csproj",
         "projectName": "BT_QLSV",
-        "projectPath": "D:\\C#\\BT_QLSV\\BT_QLSV.csproj",
+        "projectPath": "d:\\C#\\BT_QLSV\\BT_QLSV.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\BT_QLSV\\obj\\",
+        "outputPath": "d:\\C#\\BT_QLSV\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

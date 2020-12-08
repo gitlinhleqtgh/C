@@ -33,13 +33,12 @@ namespace BT_QLSV {
             // }
             // connection.Close();
 
-            string query4 = "select * from SinhVien";
-            SqlCommand cmd = new SqlCommand(query4,connection);
-            SqlDataAdapter da =  new SqlDataAdapter(cmd);
-            DataSet ds = new DataSet();
-            connection.Open();
+            // string query4 = "select * from SinhVien";
+            // SqlCommand cmd = new SqlCommand(query4,connection);
+            // SqlDataAdapter da =  new SqlDataAdapter(cmd);
+            // DataSet ds = new DataSet();
+            // connection.Open();
             
-
         }
         static int ExecuteScalar (string query) {
             SqlCommand cmd = new SqlCommand (query, connection);
@@ -58,6 +57,13 @@ namespace BT_QLSV {
             connection.Open ();
             cmd.ExecuteReader ();
             connection.Close ();
+        }
+        public void getRecord(){
+            string query = "select * from SinhVien";
+            SqlCommand cmd = new SqlCommand(query,connection);
+            SqlDataAdapter da =  new SqlDataAdapter(cmd);
+            DataSet ds = new DataSet();
+            connection.Open();
         }
     }
 }
