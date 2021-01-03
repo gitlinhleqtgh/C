@@ -9,8 +9,10 @@ int LCS(int m, int n)
 		if(X[m-1] == Y[n-1]) return 1+LCS(m-1,n-1);
 		else return max(LCS(m-1,n), LCS(m,n-1));
 }
-int LCS_DP(int m , int n)
+int LCS_DP(string X , string Y)
 {
+	int m=X.length();
+	int n=Y.length();
 	int**a; a=new int*[m+1];
 	for(int i=0;i<=m;i++) a[i]=new int [n+1];
 	for(int i=0;i<=m;i++)
@@ -23,11 +25,11 @@ int LCS_DP(int m , int n)
 }
 int main()
 {
-	X="Lelinh",Y="linh";
+	X="Leldfinh",Y="linh";
 	int m=X.length();
 	int n=Y.length();
 	long kq;
-	kq=LCS_DP(m,n);
+	kq=LCS_DP(X,Y);
 	cout<<"\nDo dai chuoi con chung lon nhat la :"<<kq;
 	return 0;
 }
